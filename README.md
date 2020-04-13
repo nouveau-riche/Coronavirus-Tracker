@@ -5,7 +5,7 @@ A simple flutter app that displays corona-statistics all over the world.
 
 
 
-<img src="screenshots/home_screen.jpeg" width="280" height="480">      &nbsp;&nbsp;&nbsp;<img src="screenshots/precautions.jpeg" width="280" height="480">
+<img src="screenshots/home_screen.jpeg" width="280" height="500">      &nbsp;&nbsp;&nbsp;<img src="screenshots/precautions.jpeg" width="280" height="500">
 
 
 
