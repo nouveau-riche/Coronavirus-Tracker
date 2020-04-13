@@ -1,2 +1,5 @@
 # CoronaVirus Tracker
-A simple app that displays corona-statistics all over the world.
+A simple flutter app that displays corona-statistics all over the world.
+
+#Keep going and Star the Repo
+
